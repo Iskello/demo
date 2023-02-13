@@ -1,0 +1,36 @@
+h1 {
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: red;
+  color: red;
+  font-size: 100px;
+  font-weight: bold;
+}
+
+h2 {
+  color: red;
+}
+
+.block {
+  background-color: black;
+}
+
+.block h3 {
+  color: red;
+}
+
+.block_color {
+  background-color: #fff;
+}
+
+.block_color button {
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: red;
+}
+
+.block .block_color {
+  color: pink;
+}
